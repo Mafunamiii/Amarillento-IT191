@@ -1,9 +1,11 @@
 FormListener.class
 TitlePanel.class
-GuessPanel$1.class
-GuessPanel.class
+InputPanel$2.class
+InputPanel$invalidGuessException.class
 MainFrame$2.class
-ResultPanel.class
 FormEvent.class
+InputPanel.class
+FeedbackPanel.class
 MainFrame.class
+InputPanel$1.class
 MainFrame$1.class
